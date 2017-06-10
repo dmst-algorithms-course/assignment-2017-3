@@ -1,3 +1,3 @@
 # Τριπλά Συστήματα Steiner 
 
-Η εκφώνηση βρίσκεται [εδώ](https://htmlpreview.github.io/?https://github.com/dmst-algorithms-course/assignment-2017-3/blob/master/assignment_2017_3.html).
+Η εκφώνηση βρίσκεται [εδώ](http://nbviewer.jupyter.org/github/dmst-algorithms-course/assignment-2017-3/blob/master/assignment_2017_3.ipynb).
